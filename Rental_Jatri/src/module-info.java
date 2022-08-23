@@ -1,0 +1,2 @@
+module rental_Jatri {
+}
